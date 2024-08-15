@@ -2,3 +2,4 @@ this is new file for new branch
 another line is made
 new line again added
 another line
+new file added
